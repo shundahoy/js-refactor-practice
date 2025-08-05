@@ -1,0 +1,11 @@
+{
+  "name": "js-refactor-quickstart",
+  "version": "1.0.0",
+  "description": "JavaScript Refactoring Practice Environment",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
