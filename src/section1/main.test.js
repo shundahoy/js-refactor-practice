@@ -1,4 +1,4 @@
-const { statement } = require("./main"); // statement関数を定義したファイル名に合わせてください
+const { statement } = require("./statement");
 
 const plays = {
   hamlet: { name: "Hamlet", type: "tragedy" },
